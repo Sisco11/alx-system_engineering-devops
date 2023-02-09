@@ -1,1 +1,2 @@
-The file conatins shell basics
+#!/bin/bash
+Shell scripts
